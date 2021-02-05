@@ -1,1 +1,1 @@
-# solaR-Dashboard
+# solaR-toolkit
